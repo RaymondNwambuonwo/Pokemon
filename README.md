@@ -1,16 +1,12 @@
-# React Pokemon Web Application
+# React Hook & API Practice
 
 # About
-This was a fun project to do while learning more about React and its capabilities. This application uses the external Pokemon API. In this application I made use of the useState and useEffect hooks as well using axios. This application will allow the user to view and search all pokemon.
+This was a fun project to do while learning more about React and its capabilities. The purpose of this project was to understand and implement the use of the hooks useState & useEffect, axios, and as well as utilize fundamental knowledge of APIs and interacting with APIs using react. For this simple application, I chose the pokemon API to simply show all pokemon in the database. This application will allow the user to view and search all pokemon.
 
 ## Technologies Used
-
-1. HTML
-2. CSS
-3. JavaScript
-4. React
-
-
+* React
 
 # Use
-* Fork and clone repository
+* Fork the repository
+* Clone the repository
+* Enjoy!
