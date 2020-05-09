@@ -6,7 +6,9 @@ This was a fun project to do while learning more about React and its capabilitie
 ## Technologies Used
 * React
 
-# Use
-* Fork the repository
-* Clone the repository
+# Use or access on local server
+* Fork and clone repository
+* Switch into directory
+* Run npm install
+* Run npm start
 * Enjoy!
